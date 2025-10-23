@@ -74,6 +74,10 @@ export class playerController extends Component {
         this.updateSpeed(dt);
         this.updateMovement(dt);
         this.updateSteering(dt);
+
+        // logging for debug
+        console.log(`Speed: ${this.currentSpeed.toFixed(2)} | Accel Input: ${this.accelationInput} | Steering Input: ${this.steeringInput}`);
+
     }
 
     private updateSpeed(dt: number): void {
