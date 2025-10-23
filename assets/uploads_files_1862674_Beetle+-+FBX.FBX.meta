@@ -1,0 +1,1428 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78",
+  "files": [],
+  "subMetas": {
+    "10689": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@10689",
+      "displayName": "",
+      "id": "10689",
+      "name": "Back Fenders-35.mesh",
+      "userData": {
+        "gltfIndex": 35,
+        "triangleCount": 316
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13887": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@13887",
+      "displayName": "",
+      "id": "13887",
+      "name": "Torpedo-34.mesh",
+      "userData": {
+        "gltfIndex": 34,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "17473": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@17473",
+      "displayName": "",
+      "id": "17473",
+      "name": "Top-43.mesh",
+      "userData": {
+        "gltfIndex": 43,
+        "triangleCount": 2956
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24640": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@24640",
+      "displayName": "",
+      "id": "24640",
+      "name": "Steering Wheel-31.mesh",
+      "userData": {
+        "gltfIndex": 31,
+        "triangleCount": 1172
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "33355": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@33355",
+      "displayName": "",
+      "id": "33355",
+      "name": "Plane014-13.mesh",
+      "userData": {
+        "gltfIndex": 13,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66953": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@66953",
+      "displayName": "",
+      "id": "66953",
+      "name": "Back Window Frame-27.mesh",
+      "userData": {
+        "gltfIndex": 27,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ae28": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@9ae28",
+      "displayName": "",
+      "id": "9ae28",
+      "name": "Right Mirror-0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cef20": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@cef20",
+      "displayName": "",
+      "id": "cef20",
+      "name": "Lights-1.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a42ad": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@a42ad",
+      "displayName": "",
+      "id": "a42ad",
+      "name": "Signal Lights-2.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 40
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ec84": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@5ec84",
+      "displayName": "",
+      "id": "5ec84",
+      "name": "Stop Lights-3.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 188
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ddf95": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@ddf95",
+      "displayName": "",
+      "id": "ddf95",
+      "name": "Mirror Glass-4.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96f56": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@96f56",
+      "displayName": "",
+      "id": "96f56",
+      "name": "Cylinder007-5.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 1011
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d42c4": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@d42c4",
+      "displayName": "",
+      "id": "d42c4",
+      "name": "Cylinder008-6.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 1011
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1825": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@c1825",
+      "displayName": "",
+      "id": "c1825",
+      "name": "Cylinder009-7.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 4040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "929c4": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@929c4",
+      "displayName": "",
+      "id": "929c4",
+      "name": "Plane019-8.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e971": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@4e971",
+      "displayName": "",
+      "id": "4e971",
+      "name": "Object095-9.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 8832
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f77c": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@8f77c",
+      "displayName": "",
+      "id": "8f77c",
+      "name": "Cylinder011-10.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 4040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6f6f": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@e6f6f",
+      "displayName": "",
+      "id": "e6f6f",
+      "name": "Plane023-11.mesh",
+      "userData": {
+        "gltfIndex": 11,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3587a": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@3587a",
+      "displayName": "",
+      "id": "3587a",
+      "name": "Object097-12.mesh",
+      "userData": {
+        "gltfIndex": 12,
+        "triangleCount": 8832
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7524": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@d7524",
+      "displayName": "",
+      "id": "d7524",
+      "name": "Cylinder001-14.mesh",
+      "userData": {
+        "gltfIndex": 14,
+        "triangleCount": 4040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "06b6a": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@06b6a",
+      "displayName": "",
+      "id": "06b6a",
+      "name": "Object081-15.mesh",
+      "userData": {
+        "gltfIndex": 15,
+        "triangleCount": 8832
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adb00": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@adb00",
+      "displayName": "",
+      "id": "adb00",
+      "name": "Box007-16.mesh",
+      "userData": {
+        "gltfIndex": 16,
+        "triangleCount": 140
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5283c": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@5283c",
+      "displayName": "",
+      "id": "5283c",
+      "name": "Box006-17.mesh",
+      "userData": {
+        "gltfIndex": 17,
+        "triangleCount": 140
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64a96": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@64a96",
+      "displayName": "",
+      "id": "64a96",
+      "name": "Box005-18.mesh",
+      "userData": {
+        "gltfIndex": 18,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14ff1": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@14ff1",
+      "displayName": "",
+      "id": "14ff1",
+      "name": "Box004-19.mesh",
+      "userData": {
+        "gltfIndex": 19,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc7fd": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@bc7fd",
+      "displayName": "",
+      "id": "bc7fd",
+      "name": "Box003-20.mesh",
+      "userData": {
+        "gltfIndex": 20,
+        "triangleCount": 140
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "117b4": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@117b4",
+      "displayName": "",
+      "id": "117b4",
+      "name": "Box008-21.mesh",
+      "userData": {
+        "gltfIndex": 21,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "495a2": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@495a2",
+      "displayName": "",
+      "id": "495a2",
+      "name": "Object096-22.mesh",
+      "userData": {
+        "gltfIndex": 22,
+        "triangleCount": 8832
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5cca1": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@5cca1",
+      "displayName": "",
+      "id": "5cca1",
+      "name": "Plane021-23.mesh",
+      "userData": {
+        "gltfIndex": 23,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c99ba": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@c99ba",
+      "displayName": "",
+      "id": "c99ba",
+      "name": "Cylinder010-24.mesh",
+      "userData": {
+        "gltfIndex": 24,
+        "triangleCount": 4040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e60b0": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@e60b0",
+      "displayName": "",
+      "id": "e60b0",
+      "name": "VW Amblem-25.mesh",
+      "userData": {
+        "gltfIndex": 25,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1100a": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@1100a",
+      "displayName": "",
+      "id": "1100a",
+      "name": "Front Window Frame-26.mesh",
+      "userData": {
+        "gltfIndex": 26,
+        "triangleCount": 448
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e9ef": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@8e9ef",
+      "displayName": "",
+      "id": "8e9ef",
+      "name": "Handles-28.mesh",
+      "userData": {
+        "gltfIndex": 28,
+        "triangleCount": 716
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35dde": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@35dde",
+      "displayName": "",
+      "id": "35dde",
+      "name": "Back  License Plate-29.mesh",
+      "userData": {
+        "gltfIndex": 29,
+        "triangleCount": 92
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a1bc": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@8a1bc",
+      "displayName": "",
+      "id": "8a1bc",
+      "name": "Bonnet-30.mesh",
+      "userData": {
+        "gltfIndex": 30,
+        "triangleCount": 666
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "850b2": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@850b2",
+      "displayName": "",
+      "id": "850b2",
+      "name": "Doors-32.mesh",
+      "userData": {
+        "gltfIndex": 32,
+        "triangleCount": 1440
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab802": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@ab802",
+      "displayName": "",
+      "id": "ab802",
+      "name": "Front Fenders-33.mesh",
+      "userData": {
+        "gltfIndex": 33,
+        "triangleCount": 1640
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76f02": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@76f02",
+      "displayName": "",
+      "id": "76f02",
+      "name": "Side Black Part-36.mesh",
+      "userData": {
+        "gltfIndex": 36,
+        "triangleCount": 416
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bc43": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@4bc43",
+      "displayName": "",
+      "id": "4bc43",
+      "name": "Right Mirror Hole-37.mesh",
+      "userData": {
+        "gltfIndex": 37,
+        "triangleCount": 1390
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e803": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@9e803",
+      "displayName": "",
+      "id": "9e803",
+      "name": "Right Mirror-38.mesh",
+      "userData": {
+        "gltfIndex": 38,
+        "triangleCount": 750
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6e97": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@b6e97",
+      "displayName": "",
+      "id": "b6e97",
+      "name": "Back Window-39.mesh",
+      "userData": {
+        "gltfIndex": 39,
+        "triangleCount": 452
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1963": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@b1963",
+      "displayName": "",
+      "id": "b1963",
+      "name": "Under Part-40.mesh",
+      "userData": {
+        "gltfIndex": 40,
+        "triangleCount": 852
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a58e4": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@a58e4",
+      "displayName": "",
+      "id": "a58e4",
+      "name": "Fornt Bumper-41.mesh",
+      "userData": {
+        "gltfIndex": 41,
+        "triangleCount": 1196
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d921": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@5d921",
+      "displayName": "",
+      "id": "5d921",
+      "name": "Hood Handle-42.mesh",
+      "userData": {
+        "gltfIndex": 42,
+        "triangleCount": 130
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d78e": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@2d78e",
+      "displayName": "",
+      "id": "2d78e",
+      "name": "Left Mirror-44.mesh",
+      "userData": {
+        "gltfIndex": 44,
+        "triangleCount": 2147
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1469": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@c1469",
+      "displayName": "",
+      "id": "c1469",
+      "name": "Signals Cover-45.mesh",
+      "userData": {
+        "gltfIndex": 45,
+        "triangleCount": 808
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e69d": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@8e69d",
+      "displayName": "",
+      "id": "8e69d",
+      "name": "Lights Frame-46.mesh",
+      "userData": {
+        "gltfIndex": 46,
+        "triangleCount": 1218
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "514c4": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@514c4",
+      "displayName": "",
+      "id": "514c4",
+      "name": "Back Sides-47.mesh",
+      "userData": {
+        "gltfIndex": 47,
+        "triangleCount": 928
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f50f": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@1f50f",
+      "displayName": "",
+      "id": "1f50f",
+      "name": "Antenna-48.mesh",
+      "userData": {
+        "gltfIndex": 48,
+        "triangleCount": 278
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04a85": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@04a85",
+      "displayName": "",
+      "id": "04a85",
+      "name": "1.300 Logo-49.mesh",
+      "userData": {
+        "gltfIndex": 49,
+        "triangleCount": 7856
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2579": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@e2579",
+      "displayName": "",
+      "id": "e2579",
+      "name": "Front Window-50.mesh",
+      "userData": {
+        "gltfIndex": 50,
+        "triangleCount": 208
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7811": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@f7811",
+      "displayName": "",
+      "id": "f7811",
+      "name": "Glass-51.mesh",
+      "userData": {
+        "gltfIndex": 51,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b88d": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@4b88d",
+      "displayName": "",
+      "id": "4b88d",
+      "name": "Lights Frame-52.mesh",
+      "userData": {
+        "gltfIndex": 52,
+        "triangleCount": 432
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f997": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@6f997",
+      "displayName": "",
+      "id": "6f997",
+      "name": "Front License Plate-53.mesh",
+      "userData": {
+        "gltfIndex": 53,
+        "triangleCount": 92
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6a17": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@a6a17",
+      "displayName": "",
+      "id": "a6a17",
+      "name": "Side Chrome Part-54.mesh",
+      "userData": {
+        "gltfIndex": 54,
+        "triangleCount": 316
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5a21": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@e5a21",
+      "displayName": "",
+      "id": "e5a21",
+      "name": "Back Bumper and Exhaust-55.mesh",
+      "userData": {
+        "gltfIndex": 55,
+        "triangleCount": 1596
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3024": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@c3024",
+      "displayName": "",
+      "id": "c3024",
+      "name": "Window Back Sides-56.mesh",
+      "userData": {
+        "gltfIndex": 56,
+        "triangleCount": 208
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "014fa": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@014fa",
+      "displayName": "",
+      "id": "014fa",
+      "name": "Object099-57.mesh",
+      "userData": {
+        "gltfIndex": 57,
+        "triangleCount": 160
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37ec9": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@37ec9",
+      "displayName": "",
+      "id": "37ec9",
+      "name": "Cylinder013-58.mesh",
+      "userData": {
+        "gltfIndex": 58,
+        "triangleCount": 196
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3769": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@d3769",
+      "displayName": "",
+      "id": "d3769",
+      "name": "Box009-59.mesh",
+      "userData": {
+        "gltfIndex": 59,
+        "triangleCount": 552
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97a72": {
+      "importer": "gltf-mesh",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@97a72",
+      "displayName": "",
+      "id": "97a72",
+      "name": "Cylinder012-60.mesh",
+      "userData": {
+        "gltfIndex": 60,
+        "triangleCount": 72
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "625f1": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@625f1",
+      "displayName": "",
+      "id": "625f1",
+      "name": "Map #35000.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "52b14": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@52b14",
+      "displayName": "",
+      "id": "52b14",
+      "name": "Map #35008.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "97f9b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@97f9b",
+      "displayName": "",
+      "id": "97f9b",
+      "name": "Map #35007.image",
+      "userData": {
+        "gltfIndex": 2,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3529b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@3529b",
+      "displayName": "",
+      "id": "3529b",
+      "name": "Map #34998.image",
+      "userData": {
+        "gltfIndex": 3,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "16e4f": {
+      "importer": "texture",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@16e4f",
+      "displayName": "",
+      "id": "16e4f",
+      "name": "Map #35000.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@625f1"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b703": {
+      "importer": "texture",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@0b703",
+      "displayName": "",
+      "id": "0b703",
+      "name": "Map #35008.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@52b14"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed2be": {
+      "importer": "texture",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@ed2be",
+      "displayName": "",
+      "id": "ed2be",
+      "name": "Map #35007.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@97f9b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0d5f": {
+      "importer": "texture",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@f0d5f",
+      "displayName": "",
+      "id": "f0d5f",
+      "name": "Map #34998.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@3529b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc611": {
+      "importer": "gltf-scene",
+      "uuid": "0d2799b9-427e-4d11-9d10-a46775b8fb78@cc611",
+      "displayName": "",
+      "id": "cc611",
+      "name": "uploads_files_1862674_Beetle+-+FBX.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #35000",
+        "uri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@625f1"
+      },
+      {
+        "name": "Map #35008",
+        "uri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@52b14"
+      },
+      {
+        "name": "Map #35007",
+        "uri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@97f9b"
+      },
+      {
+        "name": "Map #34998",
+        "uri": "0d2799b9-427e-4d11-9d10-a46775b8fb78@3529b"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@9ae28",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@cef20",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@a42ad",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@5ec84",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@ddf95",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@96f56",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@d42c4",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@c1825",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@929c4",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@4e971",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@8f77c",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@e6f6f",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@3587a",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@33355",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@d7524",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@06b6a",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@adb00",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@5283c",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@64a96",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@14ff1",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@bc7fd",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@117b4",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@495a2",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@5cca1",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@c99ba",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@e60b0",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@1100a",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@66953",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@8e9ef",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@35dde",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@8a1bc",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@24640",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@850b2",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@ab802",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@13887",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@10689",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@76f02",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@4bc43",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@9e803",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@b6e97",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@b1963",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@a58e4",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@5d921",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@17473",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@2d78e",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@c1469",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@8e69d",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@514c4",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@1f50f",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@04a85",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@e2579",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@f7811",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@4b88d",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@6f997",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@a6a17",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@e5a21",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@c3024",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@014fa",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@37ec9",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@d3769",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@97a72"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@16e4f",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@0b703",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@ed2be",
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@f0d5f"
+      ],
+      "materials": [
+        "1f6b3751-598d-4864-bf4c-9158a5940846",
+        "ffeda4e0-584e-4d2d-871f-54ae73b936ef",
+        "4d04d050-1c3b-4e6b-b8e3-04a60813b3b0",
+        "cc928926-c66a-479b-bf67-79b515886c1a",
+        "caa2e0ea-cda1-44d0-9344-d06e56cf0d47",
+        "c89677fd-8cb6-4269-b347-464a2a8b8234",
+        "c926a6e3-8252-41db-8ade-b1271b5d34a3",
+        "8edc51d9-a853-4161-aa2b-5e661f9616ef",
+        "9c913e14-474e-4906-9b99-060dfae2facd",
+        "0469508b-8996-40e7-8280-110633e09c31",
+        "19e5b090-c9d0-4e98-a5dd-c32a0568d4df"
+      ],
+      "scenes": [
+        "0d2799b9-427e-4d11-9d10-a46775b8fb78@cc611"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false,
+    "depthWriteInAlphaModeBlend": true,
+    "materialDumpDir": "db://assets/Materials_uploads_files_1862674_Beetle+-+FBX"
+  }
+}
